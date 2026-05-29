@@ -1,4 +1,6 @@
 .cabecalho{
-    background-color: aqua;
-    color: #ff0000;
+    background-color: rgb(0, 255, 55);
+    color: #000000;
+    display: flex;
+    justify-content: center;
 }
